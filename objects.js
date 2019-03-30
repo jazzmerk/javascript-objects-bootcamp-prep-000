@@ -1,1 +1,1 @@
-playlist = object.assign{
+playlist = object.assign();
