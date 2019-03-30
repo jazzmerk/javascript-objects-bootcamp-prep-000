@@ -1,3 +1,2 @@
-playlist = object.assign({artists:
+playlist = object.assign({[artist]:playlist});
   
-  );
