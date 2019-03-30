@@ -1,7 +1,6 @@
-var playlist=new Object ();
-{[artistname]:[songtitle]};
-playlist={johncoltrane:'Impressions'}
+var playlist={};
+var playlist={johncoltrane:'Impressions'};
 
-function updatePlaylist (playlist, artistname, songtitle)  {
+/*function updatePlaylist (playlist, artistname, songtitle)  {
 Object.assign ({},playlist,{artistname:[playlist]}); 
-}
+} */
